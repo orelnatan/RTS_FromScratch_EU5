@@ -18,3 +18,7 @@ Build/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Ignore heavy Marketplace asset packs
+Content/MWLandscapeAutoMaterial/
+Content/Palms_Pack_01/
